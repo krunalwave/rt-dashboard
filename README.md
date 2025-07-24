@@ -1,4 +1,4 @@
-# 📊 Dashboard Kit
+# 📊 Real-Time Dashboard
 
 This Streamlit dashboard app allows you to analyze a hypothetical YouTube channel data and display various metrics and visualizations, which is helpful for content creators in understanding their channel's performance over time.
 
@@ -8,7 +8,7 @@ The app's UI is built using pure Streamlit.
 
 ## Demo App
 
-[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://dashboard-kit.streamlit.app/)
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://rt-dashboard.streamlit.app/)
 
 ## GitHub Codespaces
 
